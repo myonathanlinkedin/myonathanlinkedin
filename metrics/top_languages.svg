@@ -1,0 +1,107 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most Used Languages">
+  <defs>
+    <linearGradient id="cardGradL" x1="0" y1="0" x2="495" y2="195" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <filter id="shadowL" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <rect width="495" height="195" rx="10" fill="url(#cardGradL)" stroke="#24283b" stroke-width="1" filter="url(#shadowL)"/>
+
+  <!-- Title -->
+  <text x="25" y="30" fill="#70a5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">
+    Most Used Languages (Polyglot Ecosystem)
+  </text>
+
+  <!-- Progress Bar Container -->
+  <g transform="translate(25, 42)">
+    <rect width="445" height="8" rx="4" fill="#24283b"/>
+    <g clip-path="url(#barClip)">
+      <defs>
+        <clipPath id="barClip">
+          <rect width="445" height="8" rx="4"/>
+        </clipPath>
+      </defs>
+      <rect x="0.00" y="0" width="208.26" height="8" fill="#f1e05a" rx="2"/><rect x="208.26" y="0" width="126.38" height="8" fill="#178600" rx="2"/><rect x="334.64" y="0" width="50.29" height="8" fill="#3572A5" rx="2"/><rect x="384.93" y="0" width="39.61" height="8" fill="#3178c6" rx="2"/><rect x="424.53" y="0" width="4.45" height="8" fill="#dea584" rx="2"/><rect x="428.98" y="0" width="2.23" height="8" fill="#f34b7d" rx="2"/><rect x="431.21" y="0" width="2.23" height="8" fill="#ec915c" rx="2"/><rect x="433.43" y="0" width="2.23" height="8" fill="#555555" rx="2"/><rect x="435.66" y="0" width="1.78" height="8" fill="#4F5D95" rx="2"/><rect x="437.44" y="0" width="1.78" height="8" fill="#F05138" rx="2"/><rect x="439.22" y="0" width="0.89" height="8" fill="#818cf8" rx="2"/><rect x="440.11" y="0" width="0.89" height="8" fill="#b07219" rx="2"/><rect x="441.00" y="0" width="0.89" height="8" fill="#5e5086" rx="2"/><rect x="441.88" y="0" width="0.89" height="8" fill="#A97BFF" rx="2"/>
+    </g>
+  </g>
+
+  <!-- Legend Columns -->
+  <g transform="translate(25, 62)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    
+            <g transform="translate(0, 0)">
+              <circle cx="4" cy="4" r="4" fill="#f1e05a"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">JavaScript</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">46.8%</text>
+            </g>
+            <g transform="translate(0, 16)">
+              <circle cx="4" cy="4" r="4" fill="#178600"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">C#</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">28.4%</text>
+            </g>
+            <g transform="translate(0, 32)">
+              <circle cx="4" cy="4" r="4" fill="#3572A5"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">Python</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">11.3%</text>
+            </g>
+            <g transform="translate(0, 48)">
+              <circle cx="4" cy="4" r="4" fill="#3178c6"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">TypeScript</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">8.9%</text>
+            </g>
+            <g transform="translate(0, 64)">
+              <circle cx="4" cy="4" r="4" fill="#dea584"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">Rust</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">1.0%</text>
+            </g>
+            <g transform="translate(0, 80)">
+              <circle cx="4" cy="4" r="4" fill="#f34b7d"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">C++</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.5%</text>
+            </g>
+            <g transform="translate(0, 96)">
+              <circle cx="4" cy="4" r="4" fill="#ec915c"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">Zig</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.5%</text>
+            </g>
+    
+            <g transform="translate(225, 0)">
+              <circle cx="4" cy="4" r="4" fill="#555555"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">C</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.5%</text>
+            </g>
+            <g transform="translate(225, 16)">
+              <circle cx="4" cy="4" r="4" fill="#4F5D95"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">PHP</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.4%</text>
+            </g>
+            <g transform="translate(225, 32)">
+              <circle cx="4" cy="4" r="4" fill="#F05138"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">Swift</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.4%</text>
+            </g>
+            <g transform="translate(225, 48)">
+              <circle cx="4" cy="4" r="4" fill="#818cf8"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">SourcePawn</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.2%</text>
+            </g>
+            <g transform="translate(225, 64)">
+              <circle cx="4" cy="4" r="4" fill="#b07219"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">Java</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.2%</text>
+            </g>
+            <g transform="translate(225, 80)">
+              <circle cx="4" cy="4" r="4" fill="#5e5086"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">Haskell</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.2%</text>
+            </g>
+            <g transform="translate(225, 96)">
+              <circle cx="4" cy="4" r="4" fill="#A97BFF"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">Kotlin</text>
+              <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.2%</text>
+            </g>
+  </g>
+</svg>

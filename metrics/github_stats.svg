@@ -1,0 +1,78 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mateus Yonathan's GitHub Stats">
+  <defs>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="495" y2="195" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="rankGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+    <style>
+      @keyframes rankSweep {
+        from {
+          stroke-dashoffset: 239;
+        }
+        to {
+          stroke-dashoffset: 27.3;
+        }
+      }
+      .rank-circle-anim {
+        animation: rankSweep 1.5s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+      }
+    </style>
+  </defs>
+
+  <rect width="495" height="195" rx="10" fill="url(#cardGrad)" stroke="#24283b" stroke-width="1" filter="url(#shadow)"/>
+
+  <!-- Title -->
+  <text x="25" y="35" fill="#70a5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">
+    Mateus Yonathan's GitHub Stats
+  </text>
+
+  <!-- Metric Rows -->
+  <g transform="translate(25, 62)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13">
+    <!-- Stars -->
+    <g transform="translate(0, 0)">
+      <path d="M8 0L10.2 5.3L16 5.8L11.6 9.6L13 15.2L8 12.2L3 15.2L4.4 9.6L0 5.8L5.8 5.3L8 0Z" fill="#e0af68"/>
+      <text x="25" y="12" fill="#a9b1d6" font-weight="500">Total Stars Earned:</text>
+      <text x="315" y="12" fill="#c0caf5" font-weight="700" text-anchor="end">7</text>
+    </g>
+
+    <!-- Commits -->
+    <g transform="translate(0, 26)">
+      <circle cx="8" cy="8" r="6" stroke="#7aa2f7" stroke-width="2" fill="none"/>
+      <polyline points="8,4 8,8 11,8" stroke="#7aa2f7" stroke-width="2" fill="none" stroke-linecap="round"/>
+      <text x="25" y="12" fill="#a9b1d6" font-weight="500">Total Commits:</text>
+      <text x="315" y="12" fill="#c0caf5" font-weight="700" text-anchor="end">3,854+</text>
+    </g>
+
+    <!-- PRs -->
+    <g transform="translate(0, 52)">
+      <circle cx="5" cy="4" r="3" fill="#bb9af7"/>
+      <circle cx="5" cy="14" r="3" fill="#bb9af7"/>
+      <circle cx="12" cy="7" r="3" fill="#bb9af7"/>
+      <path d="M5 4V14 M12 7C12 11 5 11 5 11" stroke="#bb9af7" stroke-width="1.5" fill="none"/>
+      <text x="25" y="12" fill="#a9b1d6" font-weight="500">Total PRs Merged &amp; Created:</text>
+      <text x="315" y="12" fill="#c0caf5" font-weight="700" text-anchor="end">696</text>
+    </g>
+
+    <!-- Verified Modules -->
+    <g transform="translate(0, 78)">
+      <path d="M8 1L1 5L8 9L15 5L8 1Z" stroke="#7dcfff" stroke-width="1.5" fill="none"/>
+      <path d="M1 9L8 13L15 9" stroke="#7dcfff" stroke-width="1.5" fill="none"/>
+      <text x="25" y="12" fill="#a9b1d6" font-weight="500">Verified Systems Modules:</text>
+      <text x="315" y="12" fill="#38bdf8" font-weight="700" text-anchor="end">346 (14 Langs)</text>
+    </g>
+  </g>
+
+  <!-- Grade Rank Badge -->
+  <g transform="translate(410, 105)">
+    <circle cx="0" cy="0" r="38" stroke="#24283b" stroke-width="5" fill="#16161e"/>
+    <circle class="rank-circle-anim" cx="0" cy="0" r="38" stroke="url(#rankGrad)" stroke-width="5" fill="none" stroke-dasharray="239" stroke-dashoffset="27.3" stroke-linecap="round" transform="rotate(-90)"/>
+    <text x="0" y="11" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="800" text-anchor="middle">A+</text>
+  </g>
+</svg>
