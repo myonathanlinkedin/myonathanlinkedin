@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=190&section=header&text=Mateus%20Yonathan&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Systems%20Engineer%20-%20Polyglot%20Systems%20and%20Cloud&descAlignY=60&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-Stack+Systems+Engineer;Systems+Programming+(Rust%2C+C%2B%2B%2C+Go%2C+Zig%2C+C%23);Cloud+Platforms+and+Distributed+Systems;Polyglot+Algorithms+and+Data+Structures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Full-Stack+Systems+Engineer;Systems+Programming+(Rust%2C+C%2B%2B%2C+Go%2C+Zig%2C+C%23);Cloud+Platforms+and+Distributed+Systems;Polyglot+Algorithms+and+Data+Structures" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -46,17 +46,17 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_216%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_217%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>
 </p>
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>Sentinel: The Command Plane</b><br/>• <b>rat s minimal register allocator</b><br/>• <b>Temporal - Temporal service</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>Attention via Black-Box Vector Search</b><br/>• <b>Sentinel: The Command Plane</b><br/>• <b>rat s minimal register allocator</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
 | 🌐 **Distributed Consensus & State** | • <b>High-Performance MPI Parallel Communication and Distributed Synchronization</b><br/>• <b>An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust</b><br/>• <b>Openraft - rust raft with improvements</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>Orleans - Cloud Native application framework for .NET</b><br/>• <b>Kruskal Minimum Spanning Tree with Disjoint-Set Union</b><br/>• <b>Leetcode Solutions</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Javascript Datastructures Algorithms</b><br/>• <b>Pratt Top-Down Operator Precedence Expression Parser</b><br/>• <b>How Dijkstra s Algorithm Finds the Fastest Route</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
-| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Rectangular matrix multiplication from shared-leg entropy</b><br/>• <b>Materialize - The live data layer for apps and AI agents. Create up-to-the-se...</b><br/>• <b>Three Years of Integrating MPI Performance</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
+| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Materialize - The live data layer for apps and AI agents. Create up-to-the-se...</b><br/>• <b>Three Years of Integrating MPI Performance</b><br/>• <b>A Uniform Algorithm for Strict NP on Bounded-Treedepth Graphs</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
 
 ---
 
