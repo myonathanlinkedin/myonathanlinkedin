@@ -46,17 +46,17 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_221%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_222%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>
 </p>
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>Truly Sub-3ⁿ Min-Sum Subset Convolution and Join Ordering</b><br/>• <b>Polynomial Kernels for Interval Completion</b><br/>• <b>Sentinel: The Command Plane</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>Sentinel: The Command Plane</b><br/>• <b>rat s minimal register allocator</b><br/>• <b>Temporal - Temporal service</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
 | 🌐 **Distributed Consensus & State** | • <b>High-Performance MPI Parallel Communication and Distributed Synchronization</b><br/>• <b>An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust</b><br/>• <b>Openraft - rust raft with improvements</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>Orleans - Cloud Native application framework for .NET</b><br/>• <b>Kruskal Minimum Spanning Tree with Disjoint-Set Union</b><br/>• <b>Leetcode Solutions</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Fast Almost-Uniform Sampling of Random k-SAT Solutions</b><br/>• <b>Javascript Datastructures Algorithms</b><br/>• <b>Pratt Top-Down Operator Precedence Expression Parser</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
-| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Materialize - The live data layer for apps and AI agents. Create up-to-the-se...</b><br/>• <b>Three Years of Integrating MPI Performance</b><br/>• <b>A Uniform Algorithm for Strict NP on Bounded-Treedepth Graphs</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
+| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Codeforces Go - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈</b><br/>• <b>Materialize - The live data layer for apps and AI agents. Create up-to-the-se...</b><br/>• <b>Three Years of Integrating MPI Performance</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
 
 ---
 
