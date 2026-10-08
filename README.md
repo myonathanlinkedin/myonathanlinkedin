@@ -46,17 +46,17 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_230%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_233%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>
 </p>
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>Nuraft - C++ implementation of Raft core logic as a replication library</b><br/>• <b>Color Coding for the Sherrington-Kirkpatrick Model</b><br/>• <b>Truly Sub-3ⁿ Min-Sum Subset Convolution and Join Ordering</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>Symmetric Submodular Minimization from Comparisons</b><br/>• <b>Nuraft - C++ implementation of Raft core logic as a replication library</b><br/>• <b>Color Coding for the Sherrington-Kirkpatrick Model</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
 | 🌐 **Distributed Consensus & State** | • <b>Vald - Vald. A Highly Scalable Distributed Vector Search Engine</b><br/>• <b>Conflict-free Replicated Data Type (CRDT) PN-Counter</b><br/>• <b>An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
-| 🏢 **Enterprise Systems & Cloud Backends** | • <b>LOCAA: An Agentic System for Automated Lossy Compressor Tuning</b><br/>• <b>Efficient Posterior Sampling for ℤ₂ Synchronization</b><br/>• <b>Orleans - Cloud Native application framework for .NET</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
+| 🏢 **Enterprise Systems & Cloud Backends** | • <b>Barely Monotone (min,+)-Convolution in Truly Subquadratic Time</b><br/>• <b>LOCAA: An Agentic System for Automated Lossy Compressor Tuning</b><br/>• <b>Efficient Posterior Sampling for ℤ₂ Synchronization</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>On the Cyclic Assumption of the Cow-Path Search Algorithm</b><br/>• <b>The Multiple Unicast Conjecture is False</b><br/>• <b>Min-Plus Convolution Lower Bounds via a Higher-Order BSG Theorem</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
-| 🧠 **Computational Systems & Discrete Mathematics** | • <b>52 Possibilities. 5 Cards. No Guessing. Here’s the Algorithm.</b><br/>• <b>SUSpMV: A High Frequency Sparse Matrix Vector Multiplier on HBM Enabled FPGA ...</b><br/>• <b>Codeforces Go - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
+| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Merkle Tree Verification and Proof Generator</b><br/>• <b>Subset Sum via Partial Match</b><br/>• <b>52 Possibilities. 5 Cards. No Guessing. Here’s the Algorithm.</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
 
 ---
 
