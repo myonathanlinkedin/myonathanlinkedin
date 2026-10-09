@@ -25,7 +25,7 @@
           <rect width="445" height="8" rx="4"/>
         </clipPath>
       </defs>
-      <rect x="0.00" y="0" width="212.71" height="8" fill="#f1e05a" rx="2"/><rect x="212.71" y="0" width="127.27" height="8" fill="#178600" rx="2"/><rect x="339.98" y="0" width="52.06" height="8" fill="#3572A5" rx="2"/><rect x="392.05" y="0" width="40.05" height="8" fill="#3178c6" rx="2"/><rect x="432.10" y="0" width="1.78" height="8" fill="#f34b7d" rx="2"/><rect x="433.88" y="0" width="1.78" height="8" fill="#ec915c" rx="2"/><rect x="435.65" y="0" width="1.78" height="8" fill="#555555" rx="2"/><rect x="437.43" y="0" width="1.33" height="8" fill="#5e5086" rx="2"/><rect x="438.77" y="0" width="0.89" height="8" fill="#dea584" rx="2"/><rect x="439.66" y="0" width="0.89" height="8" fill="#818cf8" rx="2"/><rect x="440.55" y="0" width="0.89" height="8" fill="#4F5D95" rx="2"/><rect x="441.44" y="0" width="0.45" height="8" fill="#818cf8" rx="2"/><rect x="441.88" y="0" width="0.45" height="8" fill="#00ADD8" rx="2"/><rect x="442.33" y="0" width="0.45" height="8" fill="#701516" rx="2"/>
+      <rect x="0.00" y="0" width="212.71" height="8" fill="#f1e05a" rx="2"/><rect x="212.71" y="0" width="127.27" height="8" fill="#178600" rx="2"/><rect x="339.98" y="0" width="52.06" height="8" fill="#3572A5" rx="2"/><rect x="392.05" y="0" width="40.05" height="8" fill="#3178c6" rx="2"/><rect x="432.10" y="0" width="1.78" height="8" fill="#f34b7d" rx="2"/><rect x="433.88" y="0" width="1.78" height="8" fill="#ec915c" rx="2"/><rect x="435.65" y="0" width="1.78" height="8" fill="#555555" rx="2"/><rect x="437.43" y="0" width="1.33" height="8" fill="#5e5086" rx="2"/><rect x="438.77" y="0" width="0.89" height="8" fill="#dea584" rx="2"/><rect x="439.66" y="0" width="0.89" height="8" fill="#4F5D95" rx="2"/><rect x="440.55" y="0" width="0.89" height="8" fill="#818cf8" rx="2"/><rect x="441.44" y="0" width="0.45" height="8" fill="#818cf8" rx="2"/><rect x="441.88" y="0" width="0.45" height="8" fill="#00ADD8" rx="2"/><rect x="442.33" y="0" width="0.45" height="8" fill="#A97BFF" rx="2"/>
     </g>
   </g>
 
@@ -79,13 +79,13 @@
               <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.2%</text>
             </g>
             <g transform="translate(225, 32)">
-              <circle cx="4" cy="4" r="4" fill="#818cf8"/>
-              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">SourcePawn</text>
+              <circle cx="4" cy="4" r="4" fill="#4F5D95"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">PHP</text>
               <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.2%</text>
             </g>
             <g transform="translate(225, 48)">
-              <circle cx="4" cy="4" r="4" fill="#4F5D95"/>
-              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">PHP</text>
+              <circle cx="4" cy="4" r="4" fill="#818cf8"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">SourcePawn</text>
               <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.2%</text>
             </g>
             <g transform="translate(225, 64)">
@@ -99,8 +99,8 @@
               <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.1%</text>
             </g>
             <g transform="translate(225, 96)">
-              <circle cx="4" cy="4" r="4" fill="#701516"/>
-              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">Ruby</text>
+              <circle cx="4" cy="4" r="4" fill="#A97BFF"/>
+              <text x="14" y="7" fill="#a9b1d6" font-size="11" font-weight="500">Kotlin</text>
               <text x="180" y="7" fill="#c0caf5" font-size="11" font-weight="700" text-anchor="end">0.1%</text>
             </g>
   </g>
