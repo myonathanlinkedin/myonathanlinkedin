@@ -46,13 +46,13 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_107%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_108%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>
 </p>
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>Singular Value Decomposition (SVD) for Low-Rank Approximation</b><br/>• <b>Cuckoo Filter High-Efficiency Deletion Structure</b><br/>• <b>Thread-Safe Bounded Blocking Queue with Condition Variables</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>Communication Between the Compiler, the Build System, and Beyond</b><br/>• <b>Singular Value Decomposition (SVD) for Low-Rank Approximation</b><br/>• <b>Cuckoo Filter High-Efficiency Deletion Structure</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
 | 🌐 **Distributed Consensus & State** | • <b>Distributed Consistent Hashing Router with Virtual Nodes</b><br/>• <b>Bit-Parallel Levenshtein Distance Matrix Engine</b><br/>• <b>Sentinel: The Command Plane</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>Kruskal Minimum Spanning Tree with Disjoint-Set Union</b><br/>• <b>Escaping Degeneracy by Following Shadow Edges</b><br/>• <b>Improved Approximations for Vehicle Routing with Nonuniform Speeds</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Finite State Machine Tokenizer and Lexical Parser</b><br/>• <b>Faster Planar Graph Algorithms for Connectivity Problems via Meanders</b><br/>• <b>Fast Almost-Uniform Sampling of Random k-SAT Solutions</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
