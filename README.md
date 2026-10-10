@@ -46,17 +46,17 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_114%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_115%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>
 </p>
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
 | ⚡ **Low-Latency & Memory Systems** | • <b>Thread-Safe Bounded Blocking Queue with Condition Variables</b><br/>• <b>CYK Parsing Algorithm for Context-Free Grammars</b><br/>• <b>Kruskal Minimum Spanning Tree with Disjoint-Set Union</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
-| 🌐 **Distributed Consensus & State** | • <b>I Built a Spell Checker to Watch an Algorithm Think</b><br/>• <b>Bit-Parallel Levenshtein Distance Matrix Engine</b><br/>• <b>Sentinel: The Command Plane</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
+| 🌐 **Distributed Consensus & State** | • <b>Designing Search & Autocomplete: Inverted Index, Trie, Ranking & Scale</b><br/>• <b>I Built a Spell Checker to Watch an Algorithm Think</b><br/>• <b>Bit-Parallel Levenshtein Distance Matrix Engine</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors</b><br/>• <b>Escaping Degeneracy by Following Shadow Edges</b><br/>• <b>Improved Approximations for Vehicle Routing with Nonuniform Speeds</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Picking fair football teams twice: one algorithm in TypeScript and Swift, sam...</b><br/>• <b>I Wrote a JSON Parser From Scratch</b><br/>• <b>Adding Go s defer to the TypeScript Compiler</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
-| 🧠 **Computational Systems & Discrete Mathematics** | • <b>R-Tree Spatial Index for Multidimensional Bounding Boxes</b><br/>• <b>Self-Balancing AVL Tree with Full Rotation Engine</b><br/>• <b>Red-Black Tree with Deterministic Balance Assertions</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
+| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Self-Balancing AVL Tree with Full Rotation Engine</b><br/>• <b>Red-Black Tree with Deterministic Balance Assertions</b><br/>• <b>Reimplementing a Trie Reminded Me How Autocomplete Actually Works</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
 
 ---
 
