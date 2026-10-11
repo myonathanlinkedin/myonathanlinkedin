@@ -46,13 +46,13 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_130%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_131%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>
 </p>
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>Self-Balancing AVL Tree with Full Rotation Engine</b><br/>• <b>Count-Min Sketch Heavy Hitters Frequency Estimator</b><br/>• <b>Thread-Safe Bounded Blocking Queue with Condition Variables</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>Rat s Register Allocator</b><br/>• <b>Self-Balancing AVL Tree with Full Rotation Engine</b><br/>• <b>Count-Min Sketch Heavy Hitters Frequency Estimator</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
 | 🌐 **Distributed Consensus & State** | • <b>culpert - rust heap profiling with span awareness and regression tooling</b><br/>• <b>Designing Search & Autocomplete: Inverted Index, Trie, Ranking & Scale</b><br/>• <b>I Built a Spell Checker to Watch an Algorithm Think</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>Ruvector - RuVector provides High Performance, Real-Time decisions and agent ...</b><br/>• <b>Lamport Logical Timestamp Synchronization Engine</b><br/>• <b>Escaping Degeneracy by Following Shadow Edges</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>I built a free system design course where your architecture has to survive si...</b><br/>• <b>Javascript Datastructures Algorithms</b><br/>• <b>Wingfoil - ultra low latency graph based stream processing framework</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
