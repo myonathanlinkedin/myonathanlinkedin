@@ -52,11 +52,11 @@
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>Constructive Arboricity in Almost-Linear Time for Dense Graphs</b><br/>• <b>Deterministic Girth Approximation in Weighted Undirected Graphs</b><br/>• <b>Roq Api</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
-| 🌐 **Distributed Consensus & State** | • <b>The Complete Faang Preparation</b><br/>• <b>Stacked Intelligent Metasurface-Based MultiModal Feature Fusion for Collabora...</b><br/>• <b>culpert - rust heap profiling with span awareness and regression tooling</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
-| 🏢 **Enterprise Systems & Cloud Backends** | • <b>The Dark Art of Roguelike Math: Deconstructing Hyperbolic Curves, Proc DAGs, and</b><br/>• <b>Multi-Source and Multi-Dimensional Information Fusion in Resource-Constrained...</b><br/>• <b>Orleans</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
-| 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Ispa parser generator</b><br/>• <b>Faststream</b><br/>• <b>Finite State Machine Tokenizer and Lexical Parser</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
-| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Red-Black Tree with Deterministic Balance Assertions</b><br/>• <b>Reimplementing a Trie Reminded Me How Autocomplete Actually Works</b><br/>• <b>Type-Safe Matrix Transformation and Reduction Engine</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>Constructive Arboricity in Almost-Linear Time for Dense Graphs</b><br/>• <b>Eventsourcing</b><br/>• <b>A Simplified Layout Algebra for GPU Kernels</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| 🌐 **Distributed Consensus & State** | • <b>The Complete Faang Preparation</b><br/>• <b>Gossip Protocol Node Failure Detector</b><br/>• <b>CAP Theorem Distributed Consistency and Partitioning Engine</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
+| 🏢 **Enterprise Systems & Cloud Backends** | • <b>The Dark Art of Roguelike Math: Deconstructing Hyperbolic Curves, Proc DAGs, and</b><br/>• <b>The Celebrity Problem: From Brute Force to O(n)</b><br/>• <b>Multi-Source and Multi-Dimensional Information Fusion in Resource-Constrained...</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
+| 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Generic</b><br/>• <b>Faster Fourier Transforms</b><br/>• <b>Easegress</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
+| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Chasing a -O2 pessimization in antcc</b><br/>• <b>Breaking Two Barriers for Dynamic Planar Reachability</b><br/>• <b>A fair Secret Santa draw with exclusions is a matching problem</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
 
 ---
 
@@ -153,7 +153,19 @@
 </div>
 </details>
 
+</div>
+
 ---
+
+> ### 🏛️ Professional Engineering Statement & Autonomous R&D Governance
+> **Methodology, Authorship Demarcation & Terms of Exploration:**
+> - **Autonomous Engineering Practice:** The repositories curated across this professional portfolio showcase autonomous software synthesis, continuous algorithmic verification, and automated systems benchmarking directed by frontier generative intelligence pipelines.
+> - **Role as Systems Architect:** The profile maintainer functions as the **System Architect and Engineering Director**—responsible for the mathematical formalization of system boundaries, orchestration topology, multi-language compiler harnesses, and automated verification suites.
+> - **LIMITATION OF LIABILITY & NON-WARRANTY:** ALL WORK PRODUCTS, ALGORITHMS, AND TELEMETRY ARE PUBLISHED EXCLUSIVELY FOR EMPIRICAL RESEARCH, ACADEMIC DEMONSTRATION, AND OPEN-SOURCE COLLABORATION UNDER THE MIT LICENSE. THE MAINTAINER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, AND SHALL INCUR ZERO LIABILITY FOR COMPILATION ANOMALIES, RUNTIME DEFECTS, OR OPERATIONAL FAILURES IN EXTERNAL ADOPTIONS.
+
+---
+
+<div align="center">
 
 <sub>⚡ *Polyglot Systems & Engineering Architecture • Maintained by <a href="https://github.com/myonathanlinkedin">Mateus Yonathan (@myonathanlinkedin)</a>*</sub>
 
