@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_165%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_166%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>
 </p>
 
@@ -54,8 +54,8 @@
 | :--- | :--- | :---: |
 | ⚡ **Low-Latency & Memory Systems** | • <b>Constructive Arboricity in Almost-Linear Time for Dense Graphs</b><br/>• <b>Deterministic Girth Approximation in Weighted Undirected Graphs</b><br/>• <b>Roq Api</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
 | 🌐 **Distributed Consensus & State** | • <b>The Complete Faang Preparation</b><br/>• <b>Stacked Intelligent Metasurface-Based MultiModal Feature Fusion for Collabora...</b><br/>• <b>culpert - rust heap profiling with span awareness and regression tooling</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
-| 🏢 **Enterprise Systems & Cloud Backends** | • <b>The Celebrity Problem: From Brute Force to O(n)</b><br/>• <b>Multi-Source and Multi-Dimensional Information Fusion in Resource-Constrained...</b><br/>• <b>Orleans</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
-| 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Ispa parser generator</b><br/>• <b>Faststream</b><br/>• <b>Finite State Machine Tokenizer and Lexical Parser</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
+| 🏢 **Enterprise Systems & Cloud Backends** | • <b>Multi-Source and Multi-Dimensional Information Fusion in Resource-Constrained...</b><br/>• <b>Orleans</b><br/>• <b>Ruvector - RuVector provides High Performance, Real-Time decisions and agent ...</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
+| 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Generic</b><br/>• <b>Ispa parser generator</b><br/>• <b>Faststream</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
 | 🧠 **Computational Systems & Discrete Mathematics** | • <b>Red-Black Tree with Deterministic Balance Assertions</b><br/>• <b>Reimplementing a Trie Reminded Me How Autocomplete Actually Works</b><br/>• <b>Type-Safe Matrix Transformation and Reduction Engine</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
 
 ---
