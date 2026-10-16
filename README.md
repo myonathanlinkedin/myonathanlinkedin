@@ -46,13 +46,13 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_186%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_187%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>
 </p>
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD</b><br/>• <b>CYK Parsing Algorithm for Context-Free Grammars</b><br/>• <b>Understanding NVIDIA Grace-Blackwell Unified Memory Through Placement-Controlled</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>You could have invented transformers from memory</b><br/>• <b>CYK Parsing Algorithm for Context-Free Grammars</b><br/>• <b>Understanding NVIDIA Grace-Blackwell Unified Memory Through Placement-Controlled</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
 | 🌐 **Distributed Consensus & State** | • <b>Bytecode Virtual Machine with Stack Evaluation Engine</b><br/>• <b>Distributed Ledger State Synchronization Protocol</b><br/>• <b>Distributed Systems Consensus and State Replication Primitives</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>Asynchronous Event-Driven Stream Processor</b><br/>• <b>The Dark Art of Roguelike Math: Deconstructing Hyperbolic Curves, Proc DAGs, and</b><br/>• <b>Multi-Source and Multi-Dimensional Information Fusion in Resource-Constrained...</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Finite State Machine Tokenizer and Lexical Parser</b><br/>• <b>ZXC: Lossless compression built for ultra-fast decode</b><br/>• <b>LALR Parser Combinator and Token Stream Generator</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
