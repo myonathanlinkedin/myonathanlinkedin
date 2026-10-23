@@ -46,13 +46,13 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_207%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_208%2B_Modules_Across_14_Languages-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>
 </p>
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>Safe Optimistic Lock Coupling</b><br/>• <b>Memory Pool Block Allocator with Free List</b><br/>• <b>How Chronos-Kernel Handles a fork When the Parent Has Gigabytes of Memory</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>Peak-Aware One-Way Trading: Competitive and Learning-Augmented Algorithms for...</b><br/>• <b>Memory Pool Block Allocator with Free List</b><br/>• <b>How Chronos-Kernel Handles a fork When the Parent Has Gigabytes of Memory</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
 | 🌐 **Distributed Consensus & State** | • <b>2026 is an exciting year for the Rust compiler (and me)</b><br/>• <b>Runge-Kutta 4th Order Numerical ODE Integrator</b><br/>• <b>Bytecode Virtual Machine with Stack Evaluation Engine</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>Asynchronous Event-Driven Stream Processor</b><br/>• <b>A page looks innocent: the algorithms behind a typeset page</b><br/>• <b>Lambda Destination Chains vs. SQS Fanout: Event Routing Topology, Retry Seman...</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Parser Combinators</b><br/>• <b>Finite State Machine Tokenizer and Lexical Parser</b><br/>• <b>ZXC: Lossless compression built for ultra-fast decode</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
