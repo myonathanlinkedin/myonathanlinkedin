@@ -29,7 +29,7 @@
 
 <div align="center">
 
-> 💡 **Mini Paper Series (108 Published Papers)**: Daily research notes and empirical PDF benchmarks analyzing systems architecture, concurrency models, and algorithmic performance across 14 languages.
+> 💡 **Mini Paper Series (109 Published Papers)**: Daily research notes and empirical PDF benchmarks analyzing systems architecture, concurrency models, and algorithmic performance across 14 languages.
 
 <br/>
 
@@ -50,19 +50,19 @@
     <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_233%2B_Paradigms_(401_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/constellation.html">
-    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_401_Stars_%26_108_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
+    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_401_Stars_%26_109_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
   </a>
 </p>
 
-> 💡 **Portfolio Metric Transparency:** **233+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **401** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **644** verified compilable codebases across 14 dedicated repositories (~46 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 43 builds), and **108** empirical PDF research papers.
+> 💡 **Portfolio Metric Transparency:** **233+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **401** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **644** verified compilable codebases across 14 dedicated repositories (~46 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 43 builds), and **109** empirical PDF research papers.
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>Keyless Entry: Hacking SwitchBot Smart Locks</b><br/>• <b>Thread-Safe Bounded Blocking Queue with Condition Variables</b><br/>• <b>Memory Pool Block Allocator with Free List</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
-| 🌐 **Distributed Consensus & State** | • <b>Aether-Atlas Docs System Design: Real-Time Editing, OT, CRDT & Scale</b><br/>• <b>Distributed Consistent Hashing Router with Virtual Nodes</b><br/>• <b>Two-Phase Commit Protocol Coordinator and Participant State Machine</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
-| 🏢 **Enterprise Systems & Cloud Backends** | • <b>Kruskal Minimum Spanning Tree with Disjoint-Set Union</b><br/>• <b>Singular Value Decomposition (SVD) for Low-Rank Approximation</b><br/>• <b>Huffman Coding Lossless Compression and Decompression</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
-| 📱 **Modern Client Systems & Reactive Runtimes** | • <b>PipeLink: Contract-Guided Linking of GPU Kernel Components</b><br/>• <b>A fast and secure tar parser for the Aether-Flux ecosystem</b><br/>• <b>Bytecode Virtual Machine with Stack Evaluation Engine</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
-| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Simulated Annealing Optimization for Combinatorial Graphs</b><br/>• <b>HyperLogLog Cardinality Estimation Algorithm</b><br/>• <b>R-Tree Spatial Index for Multidimensional Bounding Boxes</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>LSM-Tree MemTable and SSTable Flush Compaction Engine</b><br/>• <b>Lock-Free Concurrent Ring Buffer Data Structure</b><br/>• <b>Memory Pool Block Allocator with Free List</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| 🌐 **Distributed Consensus & State** | • <b>2026 is an exciting year for the Rust compiler (and me)</b><br/>• <b>Runge-Kutta 4th Order Numerical ODE Integrator</b><br/>• <b>Distributed Ledger State Synchronization Protocol</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
+| 🏢 **Enterprise Systems & Cloud Backends** | • <b>Asynchronous Event-Driven Stream Processor</b><br/>• <b>Designing an AI Gateway from Scratch: Routing, Failover, and Cost Control</b><br/>• <b>A page looks innocent: the algorithms behind a typeset page</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
+| 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Parser Combinators</b><br/>• <b>Finite State Machine Tokenizer and Lexical Parser</b><br/>• <b>ZXC: Lossless compression built for ultra-fast decode</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
+| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Stop Guessing. Let the Algorithm Find the Sweet Spot.</b><br/>• <b>The Self-Healing Code Thesis: Compilers, AI, and the Next 10 Years of Software</b><br/>• <b>HyperLogLog Cardinality Estimation Algorithm</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
 
 ---
 
