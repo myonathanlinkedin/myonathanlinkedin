@@ -47,14 +47,14 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_237%2B_Paradigms_(408_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_238%2B_Paradigms_(409_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/constellation.html">
-    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_408_Stars_%26_112_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
+    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_409_Stars_%26_112_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
   </a>
 </p>
 
-> 💡 **Portfolio Metric Transparency:** **237+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **408** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **653** verified compilable codebases across 14 dedicated repositories (~46-47 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 43 builds), and **112** empirical PDF research papers.
+> 💡 **Portfolio Metric Transparency:** **238+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **409** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **654** verified compilable codebases across 14 dedicated repositories (~46-47 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 43 builds), and **112** empirical PDF research papers.
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
@@ -62,7 +62,7 @@
 | 🌐 **Distributed Consensus & State** | • <b>Distributed Consistent Hashing Router with Virtual Nodes</b><br/>• <b>Aether-Atlas Docs System Design: Real-Time Editing, OT, CRDT & Scale</b><br/>• <b>Two-Phase Commit Protocol Coordinator and Participant State Machine</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>Kruskal Minimum Spanning Tree with Disjoint-Set Union</b><br/>• <b>Singular Value Decomposition (SVD) for Low-Rank Approximation</b><br/>• <b>Huffman Coding Lossless Compression and Decompression</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>PipeLink: Contract-Guided Linking of GPU Kernel Components</b><br/>• <b>A fast and secure tar parser for the Aether-Flux ecosystem</b><br/>• <b>Animating Algorithms in SwiftUI: A Step-Recorder Pattern for Visualising Sort...</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
-| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Bytecode Virtual Machine with Stack Evaluation Engine</b><br/>• <b>Cuckoo Filter High-Efficiency Deletion Structure</b><br/>• <b>A Case Study of a High-Performance Systems Architecture That Learns a New AI ...</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
+| 🧠 **Computational Systems & Discrete Mathematics** | • <b>On Zeros and Algorithms for Disordered Systems II: The Antiferromagnetic Isin...</b><br/>• <b>Bytecode Virtual Machine with Stack Evaluation Engine</b><br/>• <b>Cuckoo Filter High-Efficiency Deletion Structure</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
 
 ---
 
