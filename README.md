@@ -47,14 +47,14 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_268%2B_Paradigms_(453_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_267%2B_Paradigms_(452_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/constellation.html">
-    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_453_Stars_%26_141_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
+    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_452_Stars_%26_141_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
   </a>
 </p>
 
-> 💡 **Portfolio Metric Transparency:** **268+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **453** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **0** verified compilable codebases across 14 dedicated repositories (~0 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 0 builds), and **141** empirical PDF research papers.
+> 💡 **Portfolio Metric Transparency:** **267+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **452** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **0** verified compilable codebases across 14 dedicated repositories (~0 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 0 builds), and **141** empirical PDF research papers.
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
