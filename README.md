@@ -29,7 +29,7 @@
 
 <div align="center">
 
-> 💡 **Mini Paper Series (163 Published Papers)**: Daily research notes and empirical PDF benchmarks analyzing systems architecture, concurrency models, and algorithmic performance across 14 languages.
+> 💡 **Mini Paper Series (164 Published Papers)**: Daily research notes and empirical PDF benchmarks analyzing systems architecture, concurrency models, and algorithmic performance across 14 languages.
 
 <br/>
 
@@ -50,11 +50,11 @@
     <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_283%2B_Paradigms_(476_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/constellation.html">
-    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_476_Stars_%26_163_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
+    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_476_Stars_%26_164_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
   </a>
 </p>
 
-> 💡 **Portfolio Metric Transparency:** **283+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **476** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **0** verified compilable codebases across 14 dedicated repositories (~0 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 0 builds), and **163** empirical PDF research papers.
+> 💡 **Portfolio Metric Transparency:** **283+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **476** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **0** verified compilable codebases across 14 dedicated repositories (~0 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 0 builds), and **164** empirical PDF research papers.
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
