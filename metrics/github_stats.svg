@@ -1,10 +1,52 @@
-<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mateus Yonathan's GitHub Stats">
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Mateus Yonathan's GitHub Stats">
   <defs>
     <linearGradient id="cardGrad" x1="0" y1="0" x2="495" y2="195" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#1a1b26"/>
       <stop offset="100%" stop-color="#16161e"/>
     </linearGradient>
+    <linearGradient id="badgeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="coreGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
 
+    <!-- Circular Path for Rotating Text (Radius: 33.5px, Circumference: ~210px) -->
+    <path id="textCircle" d="M 0, -33.5 a 33.5,33.5 0 1,1 0,67 a 33.5,33.5 0 1,1 0,-67"/>
+
+    <style>
+      @keyframes spinCW {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes spinCCW {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+      @keyframes pulseCore {
+        0%, 100% { transform: scale(1); opacity: 0.95; }
+        50% { transform: scale(1.08); opacity: 0.8; }
+      }
+      .spin-text {
+        transform-origin: 0px 0px;
+        animation: spinCW 14s linear infinite;
+      }
+      .spin-dashed {
+        transform-origin: 0px 0px;
+        animation: spinCCW 24s linear infinite;
+      }
+      .pulse-center {
+        transform-origin: 0px 0px;
+        animation: pulseCore 3s ease-in-out infinite;
+      }
+    </style>
     <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
       <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.3"/>
     </filter>
@@ -31,7 +73,7 @@
       <circle cx="8" cy="8" r="6" stroke="#7aa2f7" stroke-width="2" fill="none"/>
       <polyline points="8,4 8,8 11,8" stroke="#7aa2f7" stroke-width="2" fill="none" stroke-linecap="round"/>
       <text x="25" y="12" fill="#a9b1d6" font-weight="500">Total Commits:</text>
-      <text x="315" y="12" fill="#c0caf5" font-weight="700" text-anchor="end">6,288+</text>
+      <text x="315" y="12" fill="#c0caf5" font-weight="700" text-anchor="end">6,290+</text>
     </g>
 
     <!-- PRs -->
@@ -52,5 +94,42 @@
       <text x="315" y="12" fill="#38bdf8" font-weight="700" text-anchor="end">307 (14 Langs)</text>
     </g>
   </g>
+  <!-- Continuous Development Animated Orbit Badge -->
+  <g transform="translate(412, 105)">
+    <!-- Outer Orbit Ring with subtle glow -->
+    <circle cx="0" cy="0" r="43" stroke="#24283b" stroke-width="1.5" fill="#13141f" filter="url(#shadow)"/>
+    <circle cx="0" cy="0" r="43" stroke="url(#badgeGrad)" stroke-width="1.5" fill="none" opacity="0.4"/>
 
+    <!-- Counter-rotating Tech Orbitals -->
+    <g class="spin-dashed">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite"/>
+      <circle cx="0" cy="0" r="40.5" stroke="#38bdf8" stroke-width="1" stroke-dasharray="2 5" fill="none" opacity="0.35"/>
+    </g>
+
+    <!-- Rotating Typography Text Ring -->
+    <g class="spin-text">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+      <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="6.5" font-weight="700" fill="#38bdf8" letter-spacing="1.3" opacity="0.95">
+        <textPath href="#textCircle" xlink:href="#textCircle" startOffset="0%">
+          • CONTINUOUS DEVELOPMENT • ACTIVE PIPELINE 
+        </textPath>
+      </text>
+    </g>
+
+    <!-- Inner Core Background with Pulsing Radar Ring -->
+    <circle cx="0" cy="0" r="18" fill="#38bdf8" opacity="0.15">
+      <animate attributeName="r" values="17;21;17" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0.05;0.25" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="17" fill="#16161e" stroke="#24283b" stroke-width="1.5"/>
+
+    <!-- Center Icon: Continuous Active Engineering Loop (Infinity / Pipeline Core) -->
+    <g class="pulse-center">
+      <animateTransform attributeName="transform" type="scale" values="1;1.08;1" dur="3s" repeatCount="indefinite"/>
+      <path d="M-8.5 0C-8.5 -3.8 -5.5 -6 -2.8 -3.2C-1.3 -1.8 1.3 1.8 2.8 3.2C5.5 6 8.5 3.8 8.5 0C8.5 -3.8 5.5 -6 2.8 -3.2C1.3 -1.8 -1.3 1.8 -2.8 3.2C-5.5 6 -8.5 3.8 -8.5 0Z" fill="none" stroke="url(#coreGrad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+      <circle cx="0" cy="0" r="2" fill="#34d399">
+        <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
 </svg>
