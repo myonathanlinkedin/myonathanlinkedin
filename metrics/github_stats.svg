@@ -1,20 +1,42 @@
 <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Mateus Yonathan's GitHub Stats">
   <defs>
     <linearGradient id="cardGrad" x1="0" y1="0" x2="495" y2="195" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#1a1b26"/>
-      <stop offset="100%" stop-color="#16161e"/>
+      <stop offset="0%" stop-color="#0e1019"/>
+      <stop offset="50%" stop-color="#131625"/>
+      <stop offset="100%" stop-color="#0a0c14"/>
     </linearGradient>
     <linearGradient id="badgeGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="0%" stop-color="#00f5ff"/>
       <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="orbitGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="40%" stop-color="#818cf8"/>
       <stop offset="100%" stop-color="#c084fc"/>
     </linearGradient>
     <linearGradient id="coreGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#00f5ff"/>
+    </linearGradient>
+    <linearGradient id="cyanNumGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00f5ff"/>
       <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="purpleNumGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e879f9"/>
+      <stop offset="100%" stop-color="#c084fc"/>
     </linearGradient>
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="glowCyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="glowPurple" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
 
@@ -46,70 +68,86 @@
         transform-origin: 0px 0px;
         animation: pulseCore 3s ease-in-out infinite;
       }
+      .f-mono {
+        font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'SF Mono', Consolas, monospace;
+      }
+      .f-sans {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      }
     </style>
     <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
-      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.3"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.55"/>
     </filter>
   </defs>
 
-  <rect width="495" height="195" rx="10" fill="url(#cardGrad)" stroke="#24283b" stroke-width="1" filter="url(#shadow)"/>
+  <rect width="495" height="195" rx="12" fill="url(#cardGrad)" stroke="#222842" stroke-width="1.2" filter="url(#shadow)"/>
+
+  <!-- Futuristic Corner Cyber-Reticles -->
+  <path d="M 12 22 L 12 12 L 22 12" stroke="#00f5ff" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.85"/>
+  <path d="M 483 22 L 483 12 L 473 12" stroke="#00f5ff" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.85"/>
+  <path d="M 12 173 L 12 183 L 22 183" stroke="#00f5ff" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.85"/>
+  <path d="M 483 173 L 483 183 L 473 183" stroke="#00f5ff" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.85"/>
 
   <!-- Title -->
-  <text x="25" y="35" fill="#70a5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">
-    Mateus Yonathan's GitHub Stats
-  </text>
+  <g transform="translate(24, 28)">
+    <rect x="0" y="-7" width="3" height="12" rx="1.5" fill="#00f5ff" filter="url(#glowCyan)"/>
+    <text x="12" y="3" fill="#70a5fd" class="f-mono" font-size="13" font-weight="700" letter-spacing="1">
+      MATEUS YONATHAN // GITHUB STATS
+    </text>
+  </g>
 
   <!-- Metric Rows -->
-  <g transform="translate(25, 62)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13">
+  <g transform="translate(25, 62)">
     <!-- Stars -->
     <g transform="translate(0, 0)">
       <path d="M8 0L10.2 5.3L16 5.8L11.6 9.6L13 15.2L8 12.2L3 15.2L4.4 9.6L0 5.8L5.8 5.3L8 0Z" fill="#e0af68"/>
-      <text x="25" y="12" fill="#a9b1d6" font-weight="500">Total Stars Earned:</text>
-      <text x="315" y="12" fill="#c0caf5" font-weight="700" text-anchor="end">11</text>
+      <text x="25" y="12" fill="#e2e8f0" class="f-mono" font-size="12" font-weight="600">Total Stars Earned:</text>
+      <text x="315" y="12" fill="#e0af68" class="f-mono" font-size="13" font-weight="700" text-anchor="end">11</text>
     </g>
 
     <!-- Commits -->
     <g transform="translate(0, 26)">
-      <circle cx="8" cy="8" r="6" stroke="#7aa2f7" stroke-width="2" fill="none"/>
-      <polyline points="8,4 8,8 11,8" stroke="#7aa2f7" stroke-width="2" fill="none" stroke-linecap="round"/>
-      <text x="25" y="12" fill="#a9b1d6" font-weight="500">Total Commits:</text>
-      <text x="315" y="12" fill="#c0caf5" font-weight="700" text-anchor="end">6,684+</text>
+      <circle cx="8" cy="8" r="7" stroke="#38bdf8" stroke-width="1.5" fill="none"/>
+      <path d="M8 4V8L11 9.5" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round"/>
+      <text x="25" y="12" fill="#e2e8f0" class="f-mono" font-size="12" font-weight="600">Total Commits:</text>
+      <text x="315" y="12" fill="url(#cyanNumGrad)" class="f-mono" font-size="13" font-weight="800" text-anchor="end" filter="url(#glowCyan)">6,686+</text>
     </g>
 
     <!-- PRs -->
     <g transform="translate(0, 52)">
-      <circle cx="5" cy="4" r="3" fill="#bb9af7"/>
-      <circle cx="5" cy="14" r="3" fill="#bb9af7"/>
-      <circle cx="12" cy="7" r="3" fill="#bb9af7"/>
-      <path d="M5 4V14 M12 7C12 11 5 11 5 11" stroke="#bb9af7" stroke-width="1.5" fill="none"/>
-      <text x="25" y="12" fill="#a9b1d6" font-weight="500">Total PRs Merged &amp; Created:</text>
-      <text x="315" y="12" fill="#c0caf5" font-weight="700" text-anchor="end">2,133</text>
+      <circle cx="5" cy="5" r="2.5" stroke="#c084fc" stroke-width="1.5" fill="none"/>
+      <circle cx="5" cy="11" r="2.5" stroke="#c084fc" stroke-width="1.5" fill="none"/>
+      <circle cx="11" cy="8" r="2.5" stroke="#c084fc" stroke-width="1.5" fill="none"/>
+      <path d="M5 7.5V8.5" stroke="#c084fc" stroke-width="1.5"/>
+      <path d="M11 5.5C11 4 8 4 6 4" stroke="#c084fc" stroke-width="1.5" stroke-linecap="round"/>
+      <text x="25" y="12" fill="#e2e8f0" class="f-mono" font-size="12" font-weight="600">Total PRs Merged &amp; Created:</text>
+      <text x="315" y="12" fill="url(#purpleNumGrad)" class="f-mono" font-size="13" font-weight="800" text-anchor="end" filter="url(#glowPurple)">2,133</text>
     </g>
 
     <!-- Verified Modules -->
     <g transform="translate(0, 78)">
-      <path d="M8 1L1 5L8 9L15 5L8 1Z" stroke="#7dcfff" stroke-width="1.5" fill="none"/>
-      <path d="M1 9L8 13L15 9" stroke="#7dcfff" stroke-width="1.5" fill="none"/>
-      <text x="25" y="12" fill="#a9b1d6" font-weight="500">Verified Systems Modules:</text>
-      <text x="315" y="12" fill="#38bdf8" font-weight="700" text-anchor="end">307 (14 Langs)</text>
+      <path d="M8 1L1 5L8 9L15 5L8 1Z" stroke="#34d399" stroke-width="1.5" fill="none"/>
+      <path d="M1 9L8 13L15 9" stroke="#34d399" stroke-width="1.5" fill="none"/>
+      <text x="25" y="12" fill="#e2e8f0" class="f-mono" font-size="12" font-weight="600">Verified Systems Modules:</text>
+      <text x="315" y="12" fill="#34d399" class="f-mono" font-size="13" font-weight="800" text-anchor="end">307 (14 Langs)</text>
     </g>
   </g>
   <!-- Continuous Development Animated Orbit Badge -->
   <g transform="translate(412, 105)">
     <!-- Outer Orbit Ring with subtle glow -->
-    <circle cx="0" cy="0" r="43" stroke="#24283b" stroke-width="1.5" fill="#13141f" filter="url(#shadow)"/>
-    <circle cx="0" cy="0" r="43" stroke="url(#badgeGrad)" stroke-width="1.5" fill="none" opacity="0.4"/>
+    <circle cx="0" cy="0" r="43" stroke="#222842" stroke-width="1.5" fill="#0d101a" filter="url(#shadow)"/>
+    <circle cx="0" cy="0" r="43" stroke="url(#badgeGrad)" stroke-width="1.5" fill="none" opacity="0.65"/>
 
     <!-- Counter-rotating Tech Orbitals -->
     <g class="spin-dashed">
       <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite"/>
-      <circle cx="0" cy="0" r="40.5" stroke="#38bdf8" stroke-width="1" stroke-dasharray="2 5" fill="none" opacity="0.35"/>
+      <circle cx="0" cy="0" r="40.5" stroke="#00f5ff" stroke-width="1" stroke-dasharray="2 5" fill="none" opacity="0.45"/>
     </g>
 
     <!-- Rotating Typography Text Ring -->
     <g class="spin-text">
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
-      <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="6.5" font-weight="700" fill="#38bdf8" letter-spacing="1.3" opacity="0.95">
+      <text font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="6.2" font-weight="700" fill="#00f5ff" letter-spacing="1.3" opacity="0.95">
         <textPath href="#textCircle" xlink:href="#textCircle" startOffset="0%">
           • CONTINUOUS DEVELOPMENT • ACTIVE PIPELINE 
         </textPath>
@@ -117,11 +155,11 @@
     </g>
 
     <!-- Inner Core Background with Pulsing Radar Ring -->
-    <circle cx="0" cy="0" r="18" fill="#38bdf8" opacity="0.15">
+    <circle cx="0" cy="0" r="18" fill="#00f5ff" opacity="0.15">
       <animate attributeName="r" values="17;21;17" dur="3s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.25;0.05;0.25" dur="3s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="0" cy="0" r="17" fill="#16161e" stroke="#24283b" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="17" fill="#111422" stroke="#222842" stroke-width="1.5"/>
 
     <!-- Center Icon: Continuous Active Engineering Loop (Infinity / Pipeline Core) -->
     <g class="pulse-center">
