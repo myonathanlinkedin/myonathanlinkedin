@@ -1,0 +1,201 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Development Activity and Daily Work Consistency">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="cardGradU" x1="0" y1="0" x2="495" y2="195" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+
+    <!-- Border & Accents Gradients -->
+    <linearGradient id="orbitGradU" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="coreGradU" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="dividerGradU" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#24283b" stop-opacity="0.1"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#24283b" stop-opacity="0.1"/>
+    </linearGradient>
+
+    <!-- Filters -->
+    <filter id="shadowU" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+    <filter id="glowU" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <!-- Circular Path for Rotating Text (Radius: 33.5px, Circumference: ~210px) -->
+    <path id="uptimeCircle" d="M 0, -33.5 a 33.5,33.5 0 1,1 0,67 a 33.5,33.5 0 1,1 0,-67"/>
+
+    <style>
+      @keyframes spinCW {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes spinCCW {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+      @keyframes pulseBeacon {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.35; }
+      }
+      .spin-text {
+        transform-origin: 0px 0px;
+        animation: spinCW 14s linear infinite;
+      }
+      .spin-dashed {
+        transform-origin: 0px 0px;
+        animation: spinCCW 24s linear infinite;
+      }
+      .pulse-beacon {
+        animation: pulseBeacon 2s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect width="495" height="195" rx="10" fill="url(#cardGradU)" stroke="#24283b" stroke-width="1" filter="url(#shadowU)"/>
+
+  <!-- Subtle Cybernetic Corner Marks -->
+  <path d="M 12 18 L 12 12 L 18 12" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <path d="M 483 18 L 483 12 L 477 12" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <path d="M 12 177 L 12 183 L 18 183" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <path d="M 483 177 L 483 183 L 477 183" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.6"/>
+
+  <!-- Title & Status Header -->
+  <g transform="translate(25, 28)">
+    <text fill="#70a5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">
+      Daily Work Consistency &amp; Productivity
+    </text>
+  </g>
+
+  <!-- Live Status Pill (Top Right) -->
+  <g transform="translate(470, 24)" text-anchor="end">
+    <rect x="-122" y="-12" width="122" height="18" rx="9" fill="#13141f" stroke="#24283b" stroke-width="1"/>
+    <circle class="pulse-beacon" cx="-111" cy="-3" r="3.5" fill="#34d399" filter="url(#glowU)">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-10" y="0.5" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="0.4">
+      HIGHLY ACTIVE (DAILY)
+    </text>
+  </g>
+
+  <!-- Column Dividers -->
+  <line x1="165" y1="46" x2="165" y2="175" stroke="url(#dividerGradU)" stroke-width="1"/>
+  <line x1="330" y1="46" x2="330" y2="175" stroke="url(#dividerGradU)" stroke-width="1"/>
+
+  <!-- ==================== LEFT COLUMN: Total Contributions ==================== -->
+  <g transform="translate(82.5, 62)" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <!-- Icon: Code Commits & Output -->
+    <g transform="translate(0, 0)">
+      <circle cx="0" cy="0" r="14" fill="#13141f" stroke="#24283b" stroke-width="1"/>
+      <path d="M-6 -4 C-6 -7 6 -7 6 -4 C6 -1 -6 -1 -6 -4 Z M-6 -4 L-6 4 C-6 7 6 7 6 4 L6 -4" fill="none" stroke="#38bdf8" stroke-width="1.3"/>
+      <path d="M-6 0 C-6 3 6 3 6 0" fill="none" stroke="#38bdf8" stroke-width="1.3"/>
+    </g>
+
+    <!-- Metric Value -->
+    <text x="0" y="38" fill="#70a5fd" font-size="25" font-weight="800" letter-spacing="-0.5">
+      15,438
+    </text>
+
+    <!-- Metric Label (Easy for HR to understand) -->
+    <text x="0" y="58" fill="#c0caf5" font-size="11" font-weight="700" letter-spacing="0.2">
+      Total Contributions
+    </text>
+
+    <!-- Explanation Subtext -->
+    <text x="0" y="73" fill="#a9b1d6" font-size="9.5" font-weight="500">
+      Commits, PRs &amp; Code
+    </text>
+
+    <!-- Date Range -->
+    <text x="0" y="87" fill="#565f89" font-size="8.5" font-weight="500">
+      Apr 15, 2025 - Present
+    </text>
+  </g>
+
+  <!-- ==================== MIDDLE COLUMN: Hero Orbital Gauge (42 Days In A Row) ==================== -->
+  <g transform="translate(247.5, 96)">
+    <!-- Outer Orbit Halo -->
+    <circle cx="0" cy="0" r="43" stroke="#24283b" stroke-width="1.5" fill="#13141f" filter="url(#shadowU)"/>
+    <circle cx="0" cy="0" r="43" stroke="url(#orbitGradU)" stroke-width="1.5" fill="none" opacity="0.45"/>
+
+    <!-- Counter-rotating Tech Orbitals -->
+    <g class="spin-dashed">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite"/>
+      <circle cx="0" cy="0" r="40.5" stroke="#38bdf8" stroke-width="1" stroke-dasharray="2 4" fill="none" opacity="0.4"/>
+    </g>
+
+    <!-- Rotating Typography Text Ring -->
+    <g class="spin-text">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+      <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="6.3" font-weight="700" fill="#38bdf8" letter-spacing="1.2" opacity="0.95">
+        <textPath href="#uptimeCircle" xlink:href="#uptimeCircle" startOffset="0%">
+          • DAILY CODING ACTIVITY • UNBROKEN CONSISTENCY 
+        </textPath>
+      </text>
+    </g>
+
+    <!-- Inner Core & Pulsing Ring -->
+    <circle cx="0" cy="0" r="23" fill="#16161e" stroke="url(#coreGradU)" stroke-width="2" filter="url(#glowU)"/>
+
+    <!-- Center Metric: Days Number & Unit -->
+    <g text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+      <text x="0" y="4" fill="#c0caf5" font-size="20" font-weight="900" letter-spacing="-0.5">
+        42
+      </text>
+      <text x="0" y="14" fill="#34d399" font-size="6.5" font-weight="800" letter-spacing="0.8">
+        DAYS IN A ROW
+      </text>
+    </g>
+
+    <!-- Below the Gauge Labels (Crystal clear for HR) -->
+    <g transform="translate(0, 56)" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+      <text x="0" y="0" fill="#38bdf8" font-size="11" font-weight="700" letter-spacing="0.3">
+        CURRENT ACTIVE STREAK
+      </text>
+      <text x="0" y="15" fill="#7aa2f7" font-size="9" font-weight="600">
+        Oct 3 - Nov 13 (Active Today)
+      </text>
+    </g>
+  </g>
+
+  <!-- ==================== RIGHT COLUMN: Longest Streak (All-Time Record) ==================== -->
+  <g transform="translate(412.5, 62)" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <!-- Icon: Trophy / All-Time Zenith -->
+    <g transform="translate(0, 0)">
+      <circle cx="0" cy="0" r="14" fill="#13141f" stroke="#24283b" stroke-width="1"/>
+      <path d="M-5 -5 L5 -5 L3 2 C2 4 -2 4 -3 2 Z" fill="none" stroke="#e0af68" stroke-width="1.3"/>
+      <path d="M0 3 L0 6 M-3 6 L3 6" stroke="#e0af68" stroke-width="1.3"/>
+      <path d="M-5 -3 C-7 -3 -7 0 -5 0 M5 -3 C7 -3 7 0 5 0" stroke="#e0af68" stroke-width="1.1"/>
+    </g>
+
+    <!-- Metric Value -->
+    <text x="0" y="38" fill="#70a5fd" font-size="25" font-weight="800" letter-spacing="-0.5">
+      42
+    </text>
+
+    <!-- Metric Label (Easy for HR to understand) -->
+    <text x="0" y="58" fill="#c0caf5" font-size="11" font-weight="700" letter-spacing="0.2">
+      Longest Streak Record
+    </text>
+
+    <!-- Explanation Subtext -->
+    <text x="0" y="73" fill="#a9b1d6" font-size="9.5" font-weight="500">
+      Most Consistent Run
+    </text>
+
+    <!-- Date Range -->
+    <text x="0" y="87" fill="#565f89" font-size="8.5" font-weight="500">
+      Oct 3 - Nov 13
+    </text>
+  </g>
+</svg>
