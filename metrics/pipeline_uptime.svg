@@ -126,7 +126,7 @@
 
       <!-- Big Neon Value -->
       <text x="0" y="37" fill="url(#cyanGradU)" class="f-mono" font-size="22" font-weight="800" filter="url(#glowCyanU)">
-        15,438
+        15,480
       </text>
 
       <!-- Label for HR -->
@@ -177,7 +177,7 @@
       <!-- Inner Core: Big Clean Number (NO overlapping text!) -->
       <circle cx="0" cy="0" r="22" fill="#111422" stroke="url(#cyanGradU)" stroke-width="1.8" filter="url(#glowCyanU)"/>
       <text x="0" y="8" text-anchor="middle" fill="#ffffff" class="f-mono" font-size="22" font-weight="900">
-        42
+        43
       </text>
     </g>
 
@@ -187,7 +187,7 @@
         42 DAYS IN A ROW
       </text>
       <text x="0" y="19" fill="#94a3b8" class="f-sans" font-size="9" font-weight="600">
-        Current Streak • Oct 3 - Nov 13
+        Current Streak • Oct 3 - Nov 14
       </text>
     </g>
   </g>
@@ -205,7 +205,7 @@
 
       <!-- Big Neon Value -->
       <text x="0" y="37" fill="url(#purpleGradU)" class="f-mono" font-size="22" font-weight="800" filter="url(#glowPurpleU)">
-        42
+        43
       </text>
 
       <!-- Label for HR -->
@@ -221,7 +221,7 @@
       <!-- Date Range Tag -->
       <rect x="-50" y="80" width="100" height="16" rx="8" fill="#0d0e17" stroke="#222842" stroke-width="1"/>
       <text x="0" y="91.5" fill="#c084fc" class="f-mono" font-size="8" font-weight="700" letter-spacing="0.5">
-        ★ OCT 3 - NOV 13
+        ★ OCT 3 - NOV 14
       </text>
     </g>
   </g>
