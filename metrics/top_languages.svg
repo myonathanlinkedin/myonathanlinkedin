@@ -44,7 +44,7 @@
           <rect width="445" height="7" rx="3.5"/>
         </clipPath>
       </defs>
-      <rect x="0.00" y="0" width="182.00" height="7" fill="#f1e05a" rx="2"/><rect x="182.00" y="0" width="111.25" height="7" fill="#178600" rx="2"/><rect x="293.25" y="0" width="76.54" height="7" fill="#3572A5" rx="2"/><rect x="369.79" y="0" width="37.38" height="7" fill="#3178c6" rx="2"/><rect x="407.17" y="0" width="4.45" height="7" fill="#4F5D95" rx="2"/><rect x="411.62" y="0" width="4.45" height="7" fill="#555555" rx="2"/><rect x="416.07" y="0" width="4.45" height="7" fill="#dea584" rx="2"/><rect x="420.52" y="0" width="4.01" height="7" fill="#b07219" rx="2"/><rect x="424.53" y="0" width="4.01" height="7" fill="#f34b7d" rx="2"/><rect x="428.53" y="0" width="4.01" height="7" fill="#F05138" rx="2"/><rect x="432.54" y="0" width="4.01" height="7" fill="#ec915c" rx="2"/><rect x="436.54" y="0" width="1.78" height="7" fill="#5e5086" rx="2"/><rect x="438.32" y="0" width="1.78" height="7" fill="#A97BFF" rx="2"/><rect x="440.10" y="0" width="1.78" height="7" fill="#00ADD8" rx="2"/>
+      <rect x="0.00" y="0" width="182.00" height="7" fill="#f1e05a" rx="2"/><rect x="182.00" y="0" width="111.25" height="7" fill="#178600" rx="2"/><rect x="293.25" y="0" width="76.54" height="7" fill="#3572A5" rx="2"/><rect x="369.79" y="0" width="37.38" height="7" fill="#3178c6" rx="2"/><rect x="407.17" y="0" width="4.45" height="7" fill="#4F5D95" rx="2"/><rect x="411.62" y="0" width="4.45" height="7" fill="#555555" rx="2"/><rect x="416.07" y="0" width="4.45" height="7" fill="#dea584" rx="2"/><rect x="420.52" y="0" width="4.01" height="7" fill="#b07219" rx="2"/><rect x="424.53" y="0" width="4.01" height="7" fill="#F05138" rx="2"/><rect x="428.53" y="0" width="4.01" height="7" fill="#ec915c" rx="2"/><rect x="432.54" y="0" width="3.56" height="7" fill="#5e5086" rx="2"/><rect x="436.10" y="0" width="2.23" height="7" fill="#f34b7d" rx="2"/><rect x="438.32" y="0" width="1.78" height="7" fill="#A97BFF" rx="2"/><rect x="440.10" y="0" width="1.78" height="7" fill="#00ADD8" rx="2"/>
     </g>
   </g>
 
@@ -93,24 +93,24 @@
               <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">0.9%</text>
             </g>
             <g transform="translate(225, 16)">
-              <circle cx="4" cy="4" r="3.5" fill="#f34b7d"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">C++</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">0.9%</text>
-            </g>
-            <g transform="translate(225, 32)">
               <circle cx="4" cy="4" r="3.5" fill="#F05138"/>
               <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Swift</text>
               <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">0.9%</text>
             </g>
-            <g transform="translate(225, 48)">
+            <g transform="translate(225, 32)">
               <circle cx="4" cy="4" r="3.5" fill="#ec915c"/>
               <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Zig</text>
               <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">0.9%</text>
             </g>
-            <g transform="translate(225, 64)">
+            <g transform="translate(225, 48)">
               <circle cx="4" cy="4" r="3.5" fill="#5e5086"/>
               <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Haskell</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">0.4%</text>
+              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">0.8%</text>
+            </g>
+            <g transform="translate(225, 64)">
+              <circle cx="4" cy="4" r="3.5" fill="#f34b7d"/>
+              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">C++</text>
+              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">0.5%</text>
             </g>
             <g transform="translate(225, 80)">
               <circle cx="4" cy="4" r="3.5" fill="#A97BFF"/>

@@ -126,7 +126,7 @@
 
       <!-- Big Neon Value -->
       <text x="0" y="37" fill="url(#cyanGradU)" class="f-mono" font-size="22" font-weight="800" filter="url(#glowCyanU)">
-        15,480
+        15,539
       </text>
 
       <!-- Label for HR -->
