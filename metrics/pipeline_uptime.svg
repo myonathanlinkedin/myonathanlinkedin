@@ -126,7 +126,7 @@
 
       <!-- Big Neon Value -->
       <text x="0" y="37" fill="url(#cyanGradU)" class="f-mono" font-size="22" font-weight="800" filter="url(#glowCyanU)">
-        16,849
+        16,858
       </text>
 
       <!-- Label for HR -->
@@ -184,7 +184,7 @@
     <!-- Labels Below the Circle (With Perfect Clean Breathing Room) -->
     <g transform="translate(77.5, 96)" text-anchor="middle">
       <text x="0" y="7" fill="#00f5ff" class="f-mono" font-size="10.5" font-weight="800" letter-spacing="0.8">
-        42 DAYS IN A ROW
+        49 DAYS IN A ROW
       </text>
       <text x="0" y="19" fill="#94a3b8" class="f-sans" font-size="9" font-weight="600">
         Current Streak • Oct 3 - Nov 20
