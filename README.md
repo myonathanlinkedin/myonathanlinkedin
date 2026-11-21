@@ -11,6 +11,7 @@
   <a href="https://github.com/myonathanlinkedin/mini-papers"><img src="https://img.shields.io/badge/📄_Research_Journal-Mini_Papers-DC2626?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Journal" /></a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/"><img src="https://img.shields.io/badge/Website-Systems%20Lab%20Portal-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Systems Lab Portal" /></a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/constellation.html"><img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Interactive_Constellation-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="3D Celestial Knowledge Graph" /></a>&nbsp;
+  <a href="https://myonathanlinkedin.github.io/mecha.html"><img src="https://img.shields.io/badge/🤖_3D_Mecha-Engineering_Hangar-EA580C?style=for-the-badge&logo=webgl&logoColor=white" alt="3D Mecha Hangar" /></a>&nbsp;
   <a href="https://orcid.org/0009-0008-5999-7366"><img src="https://img.shields.io/badge/ORCID-0009--0008--5999--7366-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
   <a href="https://researchgate.net/profile/Mateus-Yonathan"><img src="https://img.shields.io/badge/ResearchGate-Mateus%20Yonathan-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>&nbsp;
   <a href="https://ssrn.com/author=7774866"><img src="https://img.shields.io/badge/SSRN-Author%207774866-113355?style=for-the-badge&logo=ssrn&logoColor=white" alt="SSRN" /></a>
@@ -29,7 +30,7 @@
 
 <div align="center">
 
-> 💡 **Mini Paper Series (224 Published Papers)**: Daily research notes and empirical PDF benchmarks analyzing systems architecture, concurrency models, and algorithmic performance across 14 languages.
+> 💡 **Mini Paper Series (232 Published Papers)**: Daily research notes and empirical PDF benchmarks analyzing systems architecture, concurrency models, and algorithmic performance across 14 languages.
 
 <br/>
 
@@ -47,22 +48,25 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_344%2B_Paradigms_(548_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_352%2B_Paradigms_(557_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/constellation.html">
-    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_548_Stars_%26_224_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
+    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_557_Stars_%26_232_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
+  </a>&nbsp;
+  <a href="https://myonathanlinkedin.github.io/mecha.html">
+    <img src="https://img.shields.io/badge/🤖_3D_Mecha_Hangar-1%2F100_Ver.Ka_Kinematics-EA580C?style=for-the-badge&logo=blender&logoColor=white" alt="3D Mecha Engineering Hangar" />
   </a>
 </p>
 
-> 💡 **Portfolio Metric Transparency:** **344+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **548** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **548** verified compilable codebases across 14 dedicated repositories (~39-40 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 48 builds), and **224** empirical PDF research papers.
+> 💡 **Portfolio Metric Transparency:** **352+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **557** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **557** verified compilable codebases across 14 dedicated repositories (~39-40 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 47 builds), and **232** empirical PDF research papers.
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>A Principled Approach to Concurrency, Nondeterminism, and Asynchrony in Chore...</b><br/>• <b>Build Your Own Stack-Based Bytecode Virtual Machine in C</b><br/>• <b>It s All about the Allocator</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
-| 🌐 **Distributed Consensus & State** | • <b>Count-Min Sketch Heavy Hitters Frequency Estimator</b><br/>• <b>K-D Tree Spatial Partitioning and Nearest Neighbor Search</b><br/>• <b>The Traveling Salesman Problem: From 19th Century Puzzles to Genetic Algorithms</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
-| 🏢 **Enterprise Systems & Cloud Backends** | • <b>Runge-Kutta 4th Order Numerical ODE Integrator</b><br/>• <b>Trie Prefix Tree for Auto-Completion with Frequency Ranking</b><br/>• <b>Skip List Aether-Index</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
-| 📱 **Modern Client Systems & Reactive Runtimes** | • <b>B-Tree Multiway Balanced Search Tree Node Splitter</b><br/>• <b>Even Faster Algorithms for Bounded Integer Programming</b><br/>• <b>Lakegres: Vector search on existing Open/Hudi/Iceberg tables</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
-| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Simulated Annealing Optimization for Combinatorial Graphs</b><br/>• <b>Stratum-TreeIndex Spatial Index for Multidimensional Bounding Boxes</b><br/>• <b>Advanced Algorithms</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>Aho-Corasick Multi-Pattern String Searching Automaton</b><br/>• <b>TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and...</b><br/>• <b>The Cost of Virtual Memory: TLBs and Effective Memory Access Time</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| 🌐 **Distributed Consensus & State** | • <b>LSM-Tree MemTable and SSTable Flush Compaction Engine</b><br/>• <b>Storage Engines Explained: B-Tree vs LSM Tree</b><br/>• <b>Merkle Tree Verification and Proof Generator</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
+| 🏢 **Enterprise Systems & Cloud Backends** | • <b>Trie Prefix Tree for Auto-Completion with Frequency Ranking</b><br/>• <b>Improved Bounds for Directed SSSP in Sparse and Intermediate-Density Graphs</b><br/>• <b>Count-Min Sketch Heavy Hitters Frequency Estimator</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
+| 📱 **Modern Client Systems & Reactive Runtimes** | • <b>HyperLogLog Cardinality Estimation Algorithm</b><br/>• <b>Self-Balancing AVL Tree with Chronos-Topology</b><br/>• <b>Even Faster Algorithms for Bounded Integer Programming</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
+| 🧠 **Computational Systems & Discrete Mathematics** | • <b>Efficient Classical Algorithms for Ground Energy Estimation of Fermions with</b><br/>• <b>Simulated Annealing Optimization for Combinatorial Graphs</b><br/>• <b>Stratum-TreeIndex Spatial Index for Multidimensional Bounding Boxes</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
 
 ---
 
