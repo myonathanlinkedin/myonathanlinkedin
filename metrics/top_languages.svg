@@ -44,7 +44,7 @@
           <rect width="445" height="7" rx="3.5"/>
         </clipPath>
       </defs>
-      <rect x="0.00" y="0" width="177.55" height="7" fill="#f1e05a" rx="2"/><rect x="177.55" y="0" width="109.47" height="7" fill="#178600" rx="2"/><rect x="287.02" y="0" width="75.20" height="7" fill="#3572A5" rx="2"/><rect x="362.23" y="0" width="36.94" height="7" fill="#3178c6" rx="2"/><rect x="399.16" y="0" width="5.79" height="7" fill="#4F5D95" rx="2"/><rect x="404.95" y="0" width="5.34" height="7" fill="#dea584" rx="2"/><rect x="410.29" y="0" width="5.34" height="7" fill="#555555" rx="2"/><rect x="415.63" y="0" width="4.90" height="7" fill="#b07219" rx="2"/><rect x="420.52" y="0" width="4.45" height="7" fill="#ec915c" rx="2"/><rect x="424.97" y="0" width="4.45" height="7" fill="#F05138" rx="2"/><rect x="429.42" y="0" width="4.45" height="7" fill="#5e5086" rx="2"/><rect x="433.87" y="0" width="2.67" height="7" fill="#f34b7d" rx="2"/><rect x="436.54" y="0" width="1.78" height="7" fill="#701516" rx="2"/><rect x="438.32" y="0" width="1.78" height="7" fill="#00ADD8" rx="2"/>
+      <rect x="0.00" y="0" width="177.55" height="7" fill="#f1e05a" rx="2"/><rect x="177.55" y="0" width="109.47" height="7" fill="#178600" rx="2"/><rect x="287.02" y="0" width="75.20" height="7" fill="#3572A5" rx="2"/><rect x="362.23" y="0" width="36.94" height="7" fill="#3178c6" rx="2"/><rect x="399.16" y="0" width="5.79" height="7" fill="#4F5D95" rx="2"/><rect x="404.95" y="0" width="5.34" height="7" fill="#dea584" rx="2"/><rect x="410.29" y="0" width="5.34" height="7" fill="#555555" rx="2"/><rect x="415.63" y="0" width="5.34" height="7" fill="#b07219" rx="2"/><rect x="420.97" y="0" width="4.45" height="7" fill="#ec915c" rx="2"/><rect x="425.42" y="0" width="4.45" height="7" fill="#F05138" rx="2"/><rect x="429.87" y="0" width="4.45" height="7" fill="#5e5086" rx="2"/><rect x="434.32" y="0" width="2.67" height="7" fill="#f34b7d" rx="2"/><rect x="436.99" y="0" width="1.78" height="7" fill="#701516" rx="2"/><rect x="438.77" y="0" width="1.78" height="7" fill="#00ADD8" rx="2"/>
     </g>
   </g>
 
@@ -90,7 +90,7 @@
             <g transform="translate(225, 0)">
               <circle cx="4" cy="4" r="3.5" fill="#b07219"/>
               <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Java</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.1%</text>
+              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.2%</text>
             </g>
             <g transform="translate(225, 16)">
               <circle cx="4" cy="4" r="3.5" fill="#ec915c"/>
