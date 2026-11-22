@@ -30,7 +30,7 @@
 
 <div align="center">
 
-> 💡 **Mini Paper Series (238 Published Papers)**: Daily research notes and empirical PDF benchmarks analyzing systems architecture, concurrency models, and algorithmic performance across 14 languages.
+> 💡 **Mini Paper Series (239 Published Papers)**: Daily research notes and empirical PDF benchmarks analyzing systems architecture, concurrency models, and algorithmic performance across 14 languages.
 
 <br/>
 
@@ -51,19 +51,19 @@
     <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_360%2B_Paradigms_(566_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/constellation.html">
-    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_566_Stars_%26_238_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
+    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_566_Stars_%26_239_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/mecha.html">
     <img src="https://img.shields.io/badge/🤖_3D_Gundam--Like_Hangar-Autonomous_3D_Lab-EA580C?style=for-the-badge&logo=blender&logoColor=white" alt="3D Gundam-Like Mecha Engineering Hangar" />
   </a>
 </p>
 
-> 💡 **Portfolio Metric Transparency:** **360+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **566** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **566** verified compilable codebases across 14 dedicated repositories (~40-41 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 46 builds), and **238** empirical PDF research papers.
+> 💡 **Portfolio Metric Transparency:** **360+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **566** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **566** verified compilable codebases across 14 dedicated repositories (~40-41 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 47 builds), and **239** empirical PDF research papers.
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>Suffix Automaton for Linear-Time Substring Indexing</b><br/>• <b>Cache-Oblivious Matrix Transposition Algorithm</b><br/>• <b>From Skiplists to B+ Trees: Making Aether-Cache Sorted Sets More Memory Effic...</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
-| 🌐 **Distributed Consensus & State** | • <b>Distributed Consistent Hashing Router with Virtual Nodes</b><br/>• <b>Exact guarantees and faster algorithms for k-rollercoasters</b><br/>• <b>Verifying formal models of Raft implementations</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>Cache-Oblivious Matrix Transposition Algorithm</b><br/>• <b>From Skiplists to B+ Trees: Making Aether-Cache Sorted Sets More Memory Effic...</b><br/>• <b>Safe Optimistic Lock Coupling</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| 🌐 **Distributed Consensus & State** | • <b>Exact guarantees and faster algorithms for k-rollercoasters</b><br/>• <b>Verifying formal models of Raft implementations</b><br/>• <b>LSM-Tree MemTable and SSTable Flush Compaction Engine</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>Tic-Tac-Toe Minimax Algorithm in Java</b><br/>• <b>Runge-Kutta 4th Order Numerical ODE Integrator</b><br/>• <b>Tic-Tac-Toe Minimax Algorithm in Chronos-Compute</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Efficient Classical Algorithms for Ground Energy Estimation of Fermions with</b><br/>• <b>HyperLogLog Cardinality Estimation Algorithm</b><br/>• <b>Self-Balancing AVL Tree with Chronos-Topology</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
 | 🧠 **Computational Systems & Discrete Mathematics** | • <b>Count-Min Sketch Heavy Hitters Frequency Estimator</b><br/>• <b>Simulated Annealing Optimization for Combinatorial Graphs</b><br/>• <b>Advanced Algorithms</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
