@@ -48,17 +48,17 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_363%2B_Paradigms_(567_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_364%2B_Paradigms_(568_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/constellation.html">
-    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_567_Stars_%26_242_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
+    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_568_Stars_%26_242_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/mecha.html">
     <img src="https://img.shields.io/badge/🤖_3D_Gundam--Like_Hangar-Autonomous_3D_Lab-EA580C?style=for-the-badge&logo=blender&logoColor=white" alt="3D Gundam-Like Mecha Engineering Hangar" />
   </a>
 </p>
 
-> 💡 **Portfolio Metric Transparency:** **363+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **567** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **567** verified compilable codebases across 14 dedicated repositories (~40-41 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 45 builds), and **242** empirical PDF research papers.
+> 💡 **Portfolio Metric Transparency:** **364+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **568** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **568** verified compilable codebases across 14 dedicated repositories (~40-41 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 45 builds), and **242** empirical PDF research papers.
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
@@ -66,7 +66,7 @@
 | 🌐 **Distributed Consensus & State** | • <b>Fast Fourier Transform (Cooley-Tukey Radix-2) Signal Processing</b><br/>• <b>Two-Phase Commit Protocol Coordinator and Participant State Machine</b><br/>• <b>Raft Consensus Protocol Leader Election State Engine</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>Count-Min Sketch Heavy Hitters Frequency Estimator</b><br/>• <b>Trie Prefix Tree for Auto-Completion with Frequency Ranking</b><br/>• <b>Tic-Tac-Toe Minimax Algorithm in Java</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>Treap Randomized Binary Search Tree with Heap Priorities</b><br/>• <b>HyperLogLog Cardinality Estimation Algorithm</b><br/>• <b>Pratt Top-Down Operator Precedence Expression Parser</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
-| 🧠 **Computational Systems & Discrete Mathematics** | • <b>A* Heuristic Pathfinding with Dynamic Obstacle Cost</b><br/>• <b>Red-Black Tree with Deterministic Balance Assertions</b><br/>• <b>Singular Value Decomposition (SVD) for Low-Rank Approximation</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
+| 🧠 **Computational Systems & Discrete Mathematics** | • <b>iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Inje...</b><br/>• <b>A* Heuristic Pathfinding with Dynamic Obstacle Cost</b><br/>• <b>Red-Black Tree with Deterministic Balance Assertions</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
 
 ---
 
