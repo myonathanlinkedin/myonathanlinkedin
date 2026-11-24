@@ -44,7 +44,7 @@
           <rect width="445" height="7" rx="3.5"/>
         </clipPath>
       </defs>
-      <rect x="0.00" y="0" width="175.33" height="7" fill="#f1e05a" rx="2"/><rect x="175.33" y="0" width="105.91" height="7" fill="#178600" rx="2"/><rect x="281.24" y="0" width="79.21" height="7" fill="#3572A5" rx="2"/><rect x="360.45" y="0" width="36.49" height="7" fill="#3178c6" rx="2"/><rect x="396.94" y="0" width="6.23" height="7" fill="#b07219" rx="2"/><rect x="403.17" y="0" width="5.79" height="7" fill="#4F5D95" rx="2"/><rect x="408.96" y="0" width="5.79" height="7" fill="#dea584" rx="2"/><rect x="414.74" y="0" width="5.34" height="7" fill="#555555" rx="2"/><rect x="420.08" y="0" width="5.34" height="7" fill="#f34b7d" rx="2"/><rect x="425.42" y="0" width="4.90" height="7" fill="#ec915c" rx="2"/><rect x="430.32" y="0" width="4.45" height="7" fill="#5e5086" rx="2"/><rect x="434.77" y="0" width="2.23" height="7" fill="#F05138" rx="2"/><rect x="436.99" y="0" width="2.23" height="7" fill="#701516" rx="2"/><rect x="439.22" y="0" width="2.23" height="7" fill="#00ADD8" rx="2"/>
+      <rect x="0.00" y="0" width="175.33" height="7" fill="#f1e05a" rx="2"/><rect x="175.33" y="0" width="105.91" height="7" fill="#178600" rx="2"/><rect x="281.24" y="0" width="79.21" height="7" fill="#3572A5" rx="2"/><rect x="360.45" y="0" width="36.49" height="7" fill="#3178c6" rx="2"/><rect x="396.94" y="0" width="6.23" height="7" fill="#b07219" rx="2"/><rect x="403.17" y="0" width="5.79" height="7" fill="#4F5D95" rx="2"/><rect x="408.96" y="0" width="5.79" height="7" fill="#dea584" rx="2"/><rect x="414.74" y="0" width="5.34" height="7" fill="#555555" rx="2"/><rect x="420.08" y="0" width="5.34" height="7" fill="#f34b7d" rx="2"/><rect x="425.42" y="0" width="4.90" height="7" fill="#ec915c" rx="2"/><rect x="430.32" y="0" width="4.90" height="7" fill="#F05138" rx="2"/><rect x="435.21" y="0" width="2.23" height="7" fill="#5e5086" rx="2"/><rect x="437.44" y="0" width="2.23" height="7" fill="#701516" rx="2"/><rect x="439.66" y="0" width="2.23" height="7" fill="#00ADD8" rx="2"/>
     </g>
   </g>
 
@@ -103,13 +103,13 @@
               <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.1%</text>
             </g>
             <g transform="translate(225, 48)">
-              <circle cx="4" cy="4" r="3.5" fill="#5e5086"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Haskell</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.0%</text>
-            </g>
-            <g transform="translate(225, 64)">
               <circle cx="4" cy="4" r="3.5" fill="#F05138"/>
               <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Swift</text>
+              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.1%</text>
+            </g>
+            <g transform="translate(225, 64)">
+              <circle cx="4" cy="4" r="3.5" fill="#5e5086"/>
+              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Haskell</text>
               <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">0.5%</text>
             </g>
             <g transform="translate(225, 80)">
