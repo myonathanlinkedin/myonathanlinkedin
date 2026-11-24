@@ -48,21 +48,21 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_362%2B_Paradigms_(567_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_363%2B_Paradigms_(568_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/constellation.html">
-    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_567_Stars_%26_241_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
+    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_568_Stars_%26_241_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/mecha.html">
     <img src="https://img.shields.io/badge/🤖_3D_Gundam--Like_Hangar-Autonomous_3D_Lab-EA580C?style=for-the-badge&logo=blender&logoColor=white" alt="3D Gundam-Like Mecha Engineering Hangar" />
   </a>
 </p>
 
-> 💡 **Portfolio Metric Transparency:** **362+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **567** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **567** verified compilable codebases across 14 dedicated repositories (~40-41 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 44 builds), and **241** empirical PDF research papers.
+> 💡 **Portfolio Metric Transparency:** **363+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **568** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **568** verified compilable codebases across 14 dedicated repositories (~40-41 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 44 builds), and **241** empirical PDF research papers.
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
-| ⚡ **Low-Latency & Memory Systems** | • <b>Conflict-free Replicated Data Type (CRDT) PN-Counter</b><br/>• <b>Build Your Own Stack-Based Bytecode Virtual Machine in C</b><br/>• <b>Aho-Corasick Multi-Pattern String Searching Automaton</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
+| ⚡ **Low-Latency & Memory Systems** | • <b>Arctic: A Practical Lock-Free Adaptive Radix Tree</b><br/>• <b>Conflict-free Replicated Data Type (CRDT) PN-Counter</b><br/>• <b>Build Your Own Stack-Based Bytecode Virtual Machine in C</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
 | 🌐 **Distributed Consensus & State** | • <b>Two-Phase Commit Protocol Coordinator and Participant State Machine</b><br/>• <b>Raft Consensus Protocol Leader Election State Engine</b><br/>• <b>Gossip Protocol Node Failure Detector</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>Tic-Tac-Toe Minimax Algorithm in Java</b><br/>• <b>CYK Parsing Algorithm for Context-Free Grammars</b><br/>• <b>Compositional Temporal Specifications for Interaction Trees</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
 | 📱 **Modern Client Systems & Reactive Runtimes** | • <b>HyperLogLog Cardinality Estimation Algorithm</b><br/>• <b>Pratt Top-Down Operator Precedence Expression Parser</b><br/>• <b>Improved Bounds for Directed SSSP in Sparse and Intermediate-Density Graphs</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
