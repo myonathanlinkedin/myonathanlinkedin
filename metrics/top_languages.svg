@@ -44,83 +44,13 @@
           <rect width="445" height="7" rx="3.5"/>
         </clipPath>
       </defs>
-      <rect x="0.00" y="0" width="174.44" height="7" fill="#f1e05a" rx="2"/><rect x="174.44" y="0" width="105.46" height="7" fill="#178600" rx="2"/><rect x="279.90" y="0" width="79.21" height="7" fill="#3572A5" rx="2"/><rect x="359.12" y="0" width="36.05" height="7" fill="#3178c6" rx="2"/><rect x="395.16" y="0" width="6.67" height="7" fill="#b07219" rx="2"/><rect x="401.84" y="0" width="5.79" height="7" fill="#4F5D95" rx="2"/><rect x="407.62" y="0" width="5.79" height="7" fill="#dea584" rx="2"/><rect x="413.41" y="0" width="5.79" height="7" fill="#555555" rx="2"/><rect x="419.19" y="0" width="5.34" height="7" fill="#f34b7d" rx="2"/><rect x="424.53" y="0" width="4.90" height="7" fill="#5e5086" rx="2"/><rect x="429.43" y="0" width="4.90" height="7" fill="#ec915c" rx="2"/><rect x="434.32" y="0" width="2.23" height="7" fill="#F05138" rx="2"/><rect x="436.55" y="0" width="2.23" height="7" fill="#701516" rx="2"/><rect x="438.77" y="0" width="2.23" height="7" fill="#00ADD8" rx="2"/>
+      
     </g>
   </g>
 
   <!-- Legend Columns -->
   <g transform="translate(25, 62)">
     
-            <g transform="translate(0, 0)">
-              <circle cx="4" cy="4" r="3.5" fill="#f1e05a"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">JavaScript</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">39.2%</text>
-            </g>
-            <g transform="translate(0, 16)">
-              <circle cx="4" cy="4" r="3.5" fill="#178600"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">C#</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">23.7%</text>
-            </g>
-            <g transform="translate(0, 32)">
-              <circle cx="4" cy="4" r="3.5" fill="#3572A5"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Python</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">17.8%</text>
-            </g>
-            <g transform="translate(0, 48)">
-              <circle cx="4" cy="4" r="3.5" fill="#3178c6"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">TypeScript</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">8.1%</text>
-            </g>
-            <g transform="translate(0, 64)">
-              <circle cx="4" cy="4" r="3.5" fill="#b07219"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Java</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.5%</text>
-            </g>
-            <g transform="translate(0, 80)">
-              <circle cx="4" cy="4" r="3.5" fill="#4F5D95"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">PHP</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.3%</text>
-            </g>
-            <g transform="translate(0, 96)">
-              <circle cx="4" cy="4" r="3.5" fill="#dea584"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Rust</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.3%</text>
-            </g>
     
-            <g transform="translate(225, 0)">
-              <circle cx="4" cy="4" r="3.5" fill="#555555"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">C</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.3%</text>
-            </g>
-            <g transform="translate(225, 16)">
-              <circle cx="4" cy="4" r="3.5" fill="#f34b7d"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">C++</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.2%</text>
-            </g>
-            <g transform="translate(225, 32)">
-              <circle cx="4" cy="4" r="3.5" fill="#5e5086"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Haskell</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.1%</text>
-            </g>
-            <g transform="translate(225, 48)">
-              <circle cx="4" cy="4" r="3.5" fill="#ec915c"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Zig</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">1.1%</text>
-            </g>
-            <g transform="translate(225, 64)">
-              <circle cx="4" cy="4" r="3.5" fill="#F05138"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Swift</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">0.5%</text>
-            </g>
-            <g transform="translate(225, 80)">
-              <circle cx="4" cy="4" r="3.5" fill="#701516"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Ruby</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">0.5%</text>
-            </g>
-            <g transform="translate(225, 96)">
-              <circle cx="4" cy="4" r="3.5" fill="#00ADD8"/>
-              <text x="14" y="7" fill="#e2e8f0" class="f-mono" font-size="11" font-weight="500">Go</text>
-              <text x="180" y="7" fill="#00f5ff" class="f-mono" font-size="11" font-weight="700" text-anchor="end">0.5%</text>
-            </g>
   </g>
 </svg>
