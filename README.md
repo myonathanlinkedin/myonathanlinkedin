@@ -58,7 +58,7 @@
   </a>
 </p>
 
-> 💡 **Portfolio Metric Transparency:** **374+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **578** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **578** verified compilable codebases across 14 dedicated repositories (~41-42 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 44 builds), and **251** empirical PDF research papers.
+> 💡 **Portfolio Metric Transparency:** **374+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **578** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **578** verified compilable codebases across 14 dedicated repositories (~41-42 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 45 builds), and **251** empirical PDF research papers.
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
