@@ -30,7 +30,7 @@
 
 <div align="center">
 
-> 💡 **Mini Paper Series (254 Published Papers)**: Daily research notes and empirical PDF benchmarks analyzing systems architecture, concurrency models, and algorithmic performance across 14 languages.
+> 💡 **Mini Paper Series (255 Published Papers)**: Daily research notes and empirical PDF benchmarks analyzing systems architecture, concurrency models, and algorithmic performance across 14 languages.
 
 <br/>
 
@@ -48,24 +48,24 @@
 
 <p align="center">
   <a href="https://github.com/myonathanlinkedin/polyglot-systems-index">
-    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_379%2B_Paradigms_(586_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
+    <img src="https://img.shields.io/badge/🔍_Master_Algorithmic_Index-Search_All_379%2B_Paradigms_(585_Modules)-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Master Algorithmic Index" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/constellation.html">
-    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_586_Stars_%26_254_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
+    <img src="https://img.shields.io/badge/🌌_3D_Knowledge_Graph-Explore_585_Stars_%26_255_Pulsars-7C3AED?style=for-the-badge&logo=webgl&logoColor=white" alt="Explore 3D Celestial Knowledge Graph" />
   </a>&nbsp;
   <a href="https://myonathanlinkedin.github.io/mecha.html">
     <img src="https://img.shields.io/badge/🤖_3D_Gundam--Like_Hangar-Autonomous_3D_Lab-EA580C?style=for-the-badge&logo=blender&logoColor=white" alt="3D Gundam-Like Mecha Engineering Hangar" />
   </a>
 </p>
 
-> 💡 **Portfolio Metric Transparency:** **379+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **586** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **586** verified compilable codebases across 14 dedicated repositories (~41-42 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 49 builds), and **254** empirical PDF research papers.
+> 💡 **Portfolio Metric Transparency:** **379+** represents unique foundational CS paradigms (the **`+`** denotes an active autonomous research pipeline continuously ingesting new algorithms). These paradigms expand into **585** cross-language implementations cataloged in the [Master Index](https://github.com/myonathanlinkedin/polyglot-systems-index), **585** verified compilable codebases across 14 dedicated repositories (~41-42 production builds per language repository, e.g., [`rust-algorithms`](https://github.com/myonathanlinkedin/rust-algorithms) with 48 builds), and **255** empirical PDF research papers.
 
 | Architecture Domain | Key Implemented Systems & Primitives | Core Toolchains |
 | :--- | :--- | :---: |
 | ⚡ **Low-Latency & Memory Systems** | • <b>The State of Allocators in 2026 - Finally Stabilised</b><br/>• <b>The JavaScript Event Loop: Call Stack, Task Queue & Microtasks</b><br/>• <b>Actor Model Concurrency Engine with Mailbox Processing</b> | [`C`](https://github.com/myonathanlinkedin/c-lowlevel-systems) • [`C++`](https://github.com/myonathanlinkedin/cpp-systems-core) • [`Zig`](https://github.com/myonathanlinkedin/zig-systems-lab) |
-| 🌐 **Distributed Consensus & State** | • <b>Tarjan Strongly Connected Components Search in Directed Graphs</b><br/>• <b>A Local-Counting Approach for Distributed Induced Path Detection</b><br/>• <b>Simulated Annealing Optimization for Combinatorial Graphs</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
+| 🌐 **Distributed Consensus & State** | • <b>A Local-Counting Approach for Distributed Induced Path Detection</b><br/>• <b>Simulated Annealing Optimization for Combinatorial Graphs</b><br/>• <b>Conjugate Gradient Linear System Solver</b> | [`Go`](https://github.com/myonathanlinkedin/go-concurrency-lab) • [`Rust`](https://github.com/myonathanlinkedin/rust-algorithms) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) |
 | 🏢 **Enterprise Systems & Cloud Backends** | • <b>Kruskal Minimum Spanning Tree with Disjoint-Set Union</b><br/>• <b>Trie Prefix Tree for Auto-Completion with Frequency Ranking</b><br/>• <b>Tic-Tac-Toe Minimax Algorithm in Java</b> | [`C# (.NET)`](https://github.com/myonathanlinkedin/csharp-enterprise-lab) • [`Java`](https://github.com/myonathanlinkedin/java-enterprise-patterns) • [`PHP`](https://github.com/myonathanlinkedin/php-backend-core) |
-| 📱 **Modern Client Systems & Reactive Runtimes** | • <b>HyperLogLog Cardinality Estimation Algorithm</b><br/>• <b>Count-Min Sketch Heavy Hitters Frequency Estimator</b><br/>• <b>Treap Randomized Binary Search Tree with Heap Priorities</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
+| 📱 **Modern Client Systems & Reactive Runtimes** | • <b>HyperLogLog Cardinality Estimation Algorithm</b><br/>• <b>Tarjan Strongly Connected Components Search in Directed Graphs</b><br/>• <b>Count-Min Sketch Heavy Hitters Frequency Estimator</b> | [`Swift`](https://github.com/myonathanlinkedin/swift-systems-lab) • [`Kotlin`](https://github.com/myonathanlinkedin/kotlin-systems-core) • [`TypeScript`](https://github.com/myonathanlinkedin/typescript-design-patterns) |
 | 🧠 **Computational Systems & Discrete Mathematics** | • <b>Topological Sort with Cycle Detection in Directed Graphs</b><br/>• <b>Low-degree hardness rules out eigenvalue tests but not eigenvector tests</b><br/>• <b>Merkle Tree Verification and Proof Generator</b> | [`Python`](https://github.com/myonathanlinkedin/python-advanced-lab) • [`Ruby`](https://github.com/myonathanlinkedin/ruby-algorithms-lab) • [`Haskell`](https://github.com/myonathanlinkedin/haskell-functional-core) |
 
 ---
